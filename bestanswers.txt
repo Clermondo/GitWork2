@@ -1,0 +1,17 @@
+isaac@isaac-Inspiron-13-7378:~$ mkdir -p – coconut/lime/
+
+src=“”
+type=“”
+value=“
+alt=”“
+title=”“
+id=”“
+class=”“
+action=”“
+method=”“
+
+<body>Defines the document’s body </body>
+<html>Defines an HTML document</html>
+<h1>Defines HTML headings</h1>
+<p>Defines a paragraph</p>
+<head>Defines information about the document</head
